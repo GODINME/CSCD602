@@ -16,7 +16,7 @@ CSCD602 Advanced Software Engineering
 - [Distributed Scalable Software](https://www.youtube.com/@domagesky/featured)
 - [Giuseppe Maggiore](https://www.youtube.com/@giuseppemag/playlists)
 - [codify](https://www.youtube.com/watch?v=HNwaTFEUHSs&list=PLKG9s9gYKALDPPQd1Sh7c0zBf5LuJI4SP)
-- []()
+- [Jake UNSW](https://www.youtube.com/@jakerenzella368/playlists)
 - []()
 - []()
 - []()
