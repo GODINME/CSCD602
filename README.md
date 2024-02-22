@@ -17,7 +17,7 @@ CSCD602 Advanced Software Engineering
 - [Giuseppe Maggiore](https://www.youtube.com/@giuseppemag/playlists)
 - [codify](https://www.youtube.com/watch?v=HNwaTFEUHSs&list=PLKG9s9gYKALDPPQd1Sh7c0zBf5LuJI4SP)
 - [Jake UNSW](https://www.youtube.com/@jakerenzella368/playlists)
-- []()
+- [Diarmuid O Connor](https://www.youtube.com/@diarmuidoconnor5256/playlists)
 - []()
 - []()
 - []()
